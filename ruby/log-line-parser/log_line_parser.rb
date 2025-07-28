@@ -15,3 +15,4 @@ class LogLineParser
     "#{message} (#{log_level})"
   end
 end
+#prueba
