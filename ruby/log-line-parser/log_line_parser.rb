@@ -15,3 +15,4 @@ class LogLineParser
     raise 'Please implement the LogLineParser#reformat method'
   end
 end
+# hola
